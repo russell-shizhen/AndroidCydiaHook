@@ -10,3 +10,6 @@ sdk.dir=/Users/myname/Library/Android/sdk
 
 ndk.dir=/Users/myname/Library/Android/android-ndk-r15c
 ~~~~
+
+## Related Blog
+https://arophix.wordpress.com/2017/11/30/android-substrate-hooking/
